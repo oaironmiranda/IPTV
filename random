@@ -4,3 +4,6 @@ https://cdn.esporteone.com/SBTSD/video.m3u8?md5=ezQ9vMcrRpfP3A4lnIBUaw&expires=1
 
 #EXTINF:-1 tvg-id="Universal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Universal
 https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=rNBivCMLyPw81Lo0Z1rDjw&expires=1649995642
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT Series
+https://cdn.esporteone.com/TNTSERIESSD/video.m3u8?md5=uLmPSxo9JJ9N3P-IIYISGg&expires=1649995730
