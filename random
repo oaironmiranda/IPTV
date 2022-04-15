@@ -7,3 +7,6 @@ https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=rNBivCMLyPw81Lo0Z1rDjw&exp
 
 #EXTINF:-1 tvg-id="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT Series
 https://cdn.esporteone.com/TNTSERIESSD/video.m3u8?md5=uLmPSxo9JJ9N3P-IIYISGg&expires=1649995730
+
+#EXTINF:-1 tvg-id="WARNER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Warner
+https://cdn.esporteone.com/WARNERSD/video.m3u8?md5=GOKzcleIG9mOdXdzZcBOeA&expires=1649995940
