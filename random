@@ -18,3 +18,5 @@ https://cdn.esporteone.com/TNTSD/video.m3u8?md5=5G5lJ0FtHB9FeWi5X7p5RQ&expires=1
 #EXTINF:-1 tvg-id="WARNER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Warner
 https://cdn.esporteone.com/WARNERSD/video.m3u8?md5=GOKzcleIG9mOdXdzZcBOeA&expires=1649995940
 
+#EXTINF:-1 tvg-id="Fox" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Fox
+https://cdn.esporteone.com/FOXSD/video.m3u8?md5=2eHEEtVQgYgS5Glx_Av0Wg&expires=1649996353
