@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
-#EXTINF:-1 tvg-id="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", SBT
-https://cdn.esporteone.com/SBTSD/video.m3u8?md5=ezQ9vMcrRpfP3A4lnIBUaw&expires=1649995342
+#EXTINF:-1 tvg-id="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT
+https://m3u9.ml/a2/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=GnFsqdppK_8twcBRFHfQQw&3U1G7qaTxrPbalZnEx=1653785390
 
 #EXTINF:-1 tvg-id="Globo News" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Globo News
 https://cdn.esporteone.com/GLOBONEWSSD/video.m3u8?md5=dL6-MhsNH9bLV7KV4rNIKA&expires=1649996274
