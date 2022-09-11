@@ -1,25 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
-#EXTINF:-1 tvg-id="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT
-https://m3u9.ml/a2/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=GnFsqdppK_8twcBRFHfQQw&3U1G7qaTxrPbalZnEx=1653785390
-
-#EXTINF:-1 tvg-id="Globo News" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Globo News
-https://cdn.esporteone.com/GLOBONEWSSD/video.m3u8?md5=dL6-MhsNH9bLV7KV4rNIKA&expires=1649996274
-
-#EXTINF:-1 tvg-id="Universal" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Universal
-https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=rNBivCMLyPw81Lo0Z1rDjw&expires=1649995642
-
-#EXTINF:-1 tvg-id="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT Series
-https://cdn.esporteone.com/TNTSERIESSD/video.m3u8?md5=uLmPSxo9JJ9N3P-IIYISGg&expires=1649995730
-
-#EXTINF:-1 tvg-id="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", TNT
-https://cdn.esporteone.com/TNTSD/video.m3u8?md5=5G5lJ0FtHB9FeWi5X7p5RQ&expires=1649996118
-
-#EXTINF:-1 tvg-id="WARNER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Warner
-https://cdn.esporteone.com/WARNERSD/video.m3u8?md5=GOKzcleIG9mOdXdzZcBOeA&expires=1649995940
-
-#EXTINF:-1 tvg-id="Fox" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Variedades", Fox
-https://cdn.esporteone.com/FOXSD/video.m3u8?md5=2eHEEtVQgYgS5Glx_Av0Wg&expires=1649996353
-
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", The CW
-https://tra3e.herokuapp.com/https://cdn1-8p.teleuptv.net/4a6a1ba6-e9e5-4bcf-ac1f-3f4fd6595f49/tracks-v3a1/mono.m3u8
+https://live.tv247.club/tv247/cw.m3u8
