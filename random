@@ -9,3 +9,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Fox5
 https://dcs-live-ue4.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-3&anvsid=m177635094-nfbc5649fe826a105afeb512f33f0a85c&ts=1662869525&anvtrid=9da3953c6e192ecc22046a74ba6d8eee
+
+#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", NBC
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=3c321da6b2e4b669f2dd49780747e7fb
