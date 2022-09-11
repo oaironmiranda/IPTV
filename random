@@ -12,3 +12,6 @@ https://dcs-live-ue4.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?tr
 
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", TNT
 https://server100.online/tnt/video.m3u8?token=1622a26de95fac330717a1182c64a9db13724dfd-8bb00d43694708a1892097fdd90e8ae4-1662876955-1662869755&remote=201.9.242.194
+
+#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", TNT Series
+https://server100.online/tnt-serie/tracks-v1a1/mono.m3u8?token=61628f7ddd16fe37d675be9ad0d1bca623609273-ce4477a024d919a0bab3f52e495c2a19-1662877057-1662869857
