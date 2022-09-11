@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", CBS News
+#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", CBSNews
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
