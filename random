@@ -12,5 +12,5 @@ https://anonstream.zip/fx/index.m3u8
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Warner Channel
 https://anonstream.zip/warnerchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", KEXP
-https://live-aacplus-64.streamguys1.com/kexp64-tunein.aac
+#EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Globo News
+https://anonstream.zip/globonews/index.m3u8
