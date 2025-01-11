@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Globo
-https://anonstream.zip/globosp-globosaopaulo/index.m3u8
+https://anonstream.zip/globorj-globorio/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", CNNBrasil
 https://anonstream.zip/cnnbrasil/index.m3u8
