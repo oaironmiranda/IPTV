@@ -27,14 +27,5 @@ https://anonstream.zip/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Viva
 https://anonstream.zip/viva/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NBA", NBA
-https://xyzdddd.mizhls.ru/lb/premium404/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NBA", NBA
-https://ddv2new.iosplayer.ru/ddv2/premium404/mono.m3u8?token=none
-
-FEXTINF:-1 tvg-id="NFL" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NFL", NFL
-https://xyzdddd.mizhls.ru/lb/premium405/index.m3u8
-
-#EXTINF:-1 tvg-id="NFL" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NFL", NFL
-https://ddv2new.iosplayer.ru/ddv2/premium405/mono.m3u8?token=none
+#EXTINF:-1 tvg-id="NBA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NBA", DEN VS BRO
+https://yhjkrf.site/chunklist/hlsch17.m3u8?wmsAuthSign=
