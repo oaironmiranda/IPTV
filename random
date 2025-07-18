@@ -27,5 +27,5 @@ https://anonstream.zip/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", Viva
 https://anonstream.zip/viva/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NBA", ABC
-https://zekonew.koskoros.ru/zeko/premium51/mono.m3u8
+#EXTINF:-1 tvg-id="NBA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="NBA", Teste
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
