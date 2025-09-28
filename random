@@ -5,3 +5,6 @@ https://lb3.strmd.top/secure/YCdFTIjprXTxqGUXnFWzqRZlIYeyxJoN/alpha/stream/kansa
 
 #EXTINF:-1 tvg-id="CW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Variedades", San Francisco 49ers
 https://lb1.strmd.top/secure/kAjeWCBoVUgRxyhDPuldfUsfxyzjecuD/alpha/stream/san-francisco-49ers-vs-jacksonville-jaguars/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News", CNN
+https://fl51.moveonjoy.com/CNN/tracks-v1a1/mono.ts.m3u8
